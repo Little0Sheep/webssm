@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bf74e66a-4323-452c-b450-72bd714e392e" name="apg_sheepblog" url="http://120.24.91.2">
+        <fileTransfer host="120.24.91.2" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="046505a6-1797-4ca8-a8f1-d03276226f67" name="apg_sheepftp" url="http://120.24.91.2">
+        <fileTransfer host="120.24.91.2" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

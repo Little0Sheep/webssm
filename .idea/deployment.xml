@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="apg_sheepblog">
+    <serverData>
+      <paths name="apg_sheepblog">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/alidata/installpack" local="$PROJECT_DIR$/sftp" web="/" />
+            <mapping local="" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/alidata/installpack" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="apg_sheepftp">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

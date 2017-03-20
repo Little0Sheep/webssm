@@ -1,0 +1,24 @@
+.navbar{
+    border-radius: 0px;
+}
+
+._right{
+    text-align:right;
+}
+
+._center{
+    text-align:center;
+}
+
+.index_article_content{
+    height:108px;
+    overflow:hidden;
+}
+
+._error_font_size{
+    font-size:14px;
+}
+
+._apg_mtop{
+    margin-top:10px;
+}
