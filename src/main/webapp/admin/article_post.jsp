@@ -39,7 +39,7 @@
         <div class="col-sm-10">
             <div class="checkbox">
                 <label>
-                    <form:checkbox path="articleStatus"> Check me out</form:checkbox>
+                    <form:checkbox path="articleStatus"></form:checkbox>
                 </label>
             </div>
         </div>
